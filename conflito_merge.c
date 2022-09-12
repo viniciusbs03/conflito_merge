@@ -1,3 +1,3 @@
-printf(Primeiro);
+printf(terceiro);
 
 
